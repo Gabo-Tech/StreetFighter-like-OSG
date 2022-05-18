@@ -42,4 +42,4 @@ This project is licensed under the Creative Commons Public Domain License - Feel
 
 ## Acknowledgments
 
-* Thanks to [Chris]([https://github.com/angle943](https://github.com/chriscourses)) for teaching me DOM manipulation, OOP, canvas design, animations, using sprites, etc. I've learned so much with his courses. 
+* Thanks to [Chris](https://github.com/chriscourses) for teaching me DOM manipulation, OOP, canvas design, animations, using sprites, etc. I've learned so much with his courses. 
