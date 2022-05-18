@@ -2,6 +2,13 @@
 *{
     box-sizing: border-box;
 }
+html{
+    overflow: -moz-scrollbars-none;
+    -ms-overflow-style: none;
+  }
+html::-webkit-scrollbar { 
+      width: 0 !important 
+} 
 body{
     background-color:#444;
     display: flex;
