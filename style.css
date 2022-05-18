@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color:#444;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#container-div{
+    position:relative;
+    display: inline-block;
+}
+
+#small-container-div{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 2rem;
+}
+
+#player-health-bar{
+    position: relative;
+    height: 30px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#player-health-total{
+    border-top-left-radius: 35px;
+    border-bottom-left-radius: 35px;
+    background-color: yellow; 
+    height: 30px;
+    width: 100%;
+}
+
+#player-health{
+    border-top-left-radius: 35px;
+    border-bottom-left-radius: 35px;
+    position: absolute;
+    background-color: rgb(2, 15, 255);
+    top: 0; 
+    right: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+#timer{
+    background-color: rgb(111, 0, 255);
+    width: 140px;
+    font-family: 'Audiowide', cursive;
+    height: 100px;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 900;
+    font-size: 3rem;
+    color: #fff;
+    border-radius: 35px;
+}
+
+#enemy-health-bar{
+    position: relative;
+    height: 30px;
+    width: 100%;
+}
+
+#enemy-health-total{
+    border-top-right-radius: 35px;
+    border-bottom-right-radius: 35px;
+    background-color: yellow; 
+    height: 30px;
+}
+
+#enemy-health{
+    border-top-right-radius: 35px;
+    border-bottom-right-radius: 35px;
+    position: absolute;
+    background-color: rgb(2, 15, 255);
+    top: 0; 
+    right: 0;
+    left: 0;
+    bottom: 0;
+}
+#game-message{
+    position: absolute;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    -webkit-text-stroke: 2px #000;
+    font-family: 'Audiowide', cursive;
+    font-weight: 900;
+    font-size: 3rem;
+}
+
+button{
+    background-color: rgb(111, 0, 255);
+    padding: 2rem;
+    font-family: 'Audiowide', cursive;
+    font-weight: 900;
+    font-size: 3rem;
+    color: #fff;
+    border-radius: 35px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: rgb(25, 0, 105);
+    cursor: pointer;
+}
