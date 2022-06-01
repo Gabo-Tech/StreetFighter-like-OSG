@@ -8,7 +8,7 @@ Well this is as simple as a Fighting Open Sourced Game kind of like Street Fight
 
 ## Getting Started
 
-Well, ju st visit the website at [gabriel19971029.github.io/StreetFighter-like-OSG](https://gabriel19971029.github.io/StreetFighter-like-OSG/) and enjoy! 
+Well, ju st visit the website at [Gabo-Tech.github.io/StreetFighter-like-OSG](https://Gabo-Tech.github.io/StreetFighter-like-OSG/) and enjoy! 
 
 ### You want to own this website?
 
@@ -30,7 +30,7 @@ This website it's been deployed and made available to the public thanks to [Gith
 
 ## Authors
 
-* **Gabriel Clemente, aka Gabo, your favorite web developer.** - *Initial work* - [Gabo](https://github.com/gabriel19971029)
+* **Gabriel Clemente, aka Gabo, your favorite web developer.** - *Initial work* - [Gabo](https://github.com/Gabo-Tech)
 
 ## License
 
